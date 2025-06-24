@@ -8636,9 +8636,7 @@ const ls = (await execSync("ls"))
 .split("\n")
 .filter(
 (pe) =>
-pe != "node_modules" &&
 pe != "session" &&
-pe != "package-lock.json" &&
 pe != "yarn.lock" &&
 pe != ""
 )
