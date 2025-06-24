@@ -22,6 +22,7 @@
     "didyoumean": "^1.2.2",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
+    "file-type@16.0.0",
     "fs-extra": "^10.0.0",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.1",
